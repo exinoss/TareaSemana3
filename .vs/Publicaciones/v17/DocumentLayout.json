@@ -1,0 +1,379 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\sem3\\publicaciones\\publicaciones\\presentacion\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|solutionrelative:publicaciones\\presentacion\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\sem3\\publicaciones\\publicaciones\\presentacion\\ventas\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|solutionrelative:publicaciones\\presentacion\\ventas\\frmventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\sem3\\publicaciones\\publicaciones\\presentacion\\ventas\\frmtiendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|solutionrelative:publicaciones\\presentacion\\ventas\\frmtiendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\sem3\\publicaciones\\publicaciones\\presentacion\\ventas\\frmdescuentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|solutionrelative:publicaciones\\presentacion\\ventas\\frmdescuentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\sem3\\publicaciones\\publicaciones\\presentacion\\titulo\\frmtitulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|solutionrelative:publicaciones\\presentacion\\titulo\\frmtitulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\sem3\\publicaciones\\publicaciones\\presentacion\\titulo\\frminfoeditorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|solutionrelative:publicaciones\\presentacion\\titulo\\frminfoeditorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\sem3\\publicaciones\\publicaciones\\presentacion\\titulo\\frmeditoriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|solutionrelative:publicaciones\\presentacion\\titulo\\frmeditoriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\sem3\\publicaciones\\publicaciones\\presentacion\\empleados\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|solutionrelative:publicaciones\\presentacion\\empleados\\frmempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\sem3\\publicaciones\\publicaciones\\presentacion\\autor\\frmautorestitulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|solutionrelative:publicaciones\\presentacion\\autor\\frmautorestitulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\sem3\\publicaciones\\publicaciones\\presentacion\\autor\\frmautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|solutionrelative:publicaciones\\presentacion\\autor\\frmautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\sem3\\publicaciones\\publicaciones\\presentacion\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|solutionrelative:publicaciones\\presentacion\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\sem3\\publicaciones\\publicaciones\\presentacion\\ventas\\cuventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|solutionrelative:publicaciones\\presentacion\\ventas\\cuventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\sem3\\publicaciones\\publicaciones\\presentacion\\ventas\\cuventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|solutionrelative:publicaciones\\presentacion\\ventas\\cuventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\sem3\\publicaciones\\publicaciones\\presentacion\\titulo\\cutitulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|solutionrelative:publicaciones\\presentacion\\titulo\\cutitulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\sem3\\publicaciones\\publicaciones\\presentacion\\titulo\\cutitulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|solutionrelative:publicaciones\\presentacion\\titulo\\cutitulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\sem3\\publicaciones\\publicaciones\\presentacion\\autor\\cuautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|solutionrelative:publicaciones\\presentacion\\autor\\cuautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\sem3\\publicaciones\\publicaciones\\presentacion\\empleados\\cuempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|solutionrelative:publicaciones\\presentacion\\empleados\\cuempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\sem3\\publicaciones\\publicaciones\\presentacion\\empleados\\cuempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|solutionrelative:publicaciones\\presentacion\\empleados\\cuempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\sem3\\publicaciones\\publicaciones\\presentacion\\autor\\cuautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|solutionrelative:publicaciones\\presentacion\\autor\\cuautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\sem3\\publicaciones\\publicaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|solutionrelative:publicaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\sem3\\publicaciones\\publicaciones\\presentacion\\autor\\frmautorestitulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|solutionrelative:publicaciones\\presentacion\\autor\\frmautorestitulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\juan\\sem3\\publicaciones\\publicaciones\\presentacion\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CAD8304A-067B-4BF7-B13F-1F08252F2E71}|Publicaciones\\Publicaciones.csproj|solutionrelative:publicaciones\\presentacion\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmDescuentos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Ventas\\frmDescuentos.cs",
+              "RelativeDocumentMoniker": "Publicaciones\\Presentacion\\Ventas\\frmDescuentos.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Ventas\\frmDescuentos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Publicaciones\\Presentacion\\Ventas\\frmDescuentos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T01:40:56.33Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmTiendas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Ventas\\frmTiendas.cs",
+              "RelativeDocumentMoniker": "Publicaciones\\Presentacion\\Ventas\\frmTiendas.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Ventas\\frmTiendas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Publicaciones\\Presentacion\\Ventas\\frmTiendas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T01:41:51.076Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Ventas\\frmVentas.cs",
+              "RelativeDocumentMoniker": "Publicaciones\\Presentacion\\Ventas\\frmVentas.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Ventas\\frmVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Publicaciones\\Presentacion\\Ventas\\frmVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T01:43:26.705Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Publicaciones\\Presentacion\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\MenuPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Publicaciones\\Presentacion\\MenuPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T01:11:47.834Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmTitulos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Titulo\\frmTitulos.cs",
+              "RelativeDocumentMoniker": "Publicaciones\\Presentacion\\Titulo\\frmTitulos.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Titulo\\frmTitulos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Publicaciones\\Presentacion\\Titulo\\frmTitulos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T01:39:50.639Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmInfoEditorial.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Titulo\\frmInfoEditorial.cs",
+              "RelativeDocumentMoniker": "Publicaciones\\Presentacion\\Titulo\\frmInfoEditorial.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Titulo\\frmInfoEditorial.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Publicaciones\\Presentacion\\Titulo\\frmInfoEditorial.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T01:36:51.283Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmEditoriales.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Titulo\\frmEditoriales.cs",
+              "RelativeDocumentMoniker": "Publicaciones\\Presentacion\\Titulo\\frmEditoriales.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Titulo\\frmEditoriales.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Publicaciones\\Presentacion\\Titulo\\frmEditoriales.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T01:36:05.526Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmEmpleados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Empleados\\frmEmpleados.cs",
+              "RelativeDocumentMoniker": "Publicaciones\\Presentacion\\Empleados\\frmEmpleados.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Empleados\\frmEmpleados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Publicaciones\\Presentacion\\Empleados\\frmEmpleados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T01:46:41.473Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmAutoresTitulos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Autor\\frmAutoresTitulos.cs",
+              "RelativeDocumentMoniker": "Publicaciones\\Presentacion\\Autor\\frmAutoresTitulos.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Autor\\frmAutoresTitulos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Publicaciones\\Presentacion\\Autor\\frmAutoresTitulos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T01:29:30.702Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmAutores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Autor\\frmAutores.cs",
+              "RelativeDocumentMoniker": "Publicaciones\\Presentacion\\Autor\\frmAutores.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Autor\\frmAutores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Publicaciones\\Presentacion\\Autor\\frmAutores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T01:45:33.942Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "Publicaciones\\Presentacion\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\MenuPrincipal.cs",
+              "RelativeToolTip": "Publicaciones\\Presentacion\\MenuPrincipal.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAjwDYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T01:18:58.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CUVentas.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Ventas\\CUVentas.cs",
+              "RelativeDocumentMoniker": "Publicaciones\\Presentacion\\Ventas\\CUVentas.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Ventas\\CUVentas.cs",
+              "RelativeToolTip": "Publicaciones\\Presentacion\\Ventas\\CUVentas.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAArwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T01:23:04.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CUVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Ventas\\CUVentas.cs",
+              "RelativeDocumentMoniker": "Publicaciones\\Presentacion\\Ventas\\CUVentas.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Ventas\\CUVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Publicaciones\\Presentacion\\Ventas\\CUVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T00:56:35.88Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CUTitulos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Titulo\\CUTitulos.cs",
+              "RelativeDocumentMoniker": "Publicaciones\\Presentacion\\Titulo\\CUTitulos.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Titulo\\CUTitulos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Publicaciones\\Presentacion\\Titulo\\CUTitulos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T00:56:24.954Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CUAutores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Autor\\CUAutores.cs",
+              "RelativeDocumentMoniker": "Publicaciones\\Presentacion\\Autor\\CUAutores.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Autor\\CUAutores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Publicaciones\\Presentacion\\Autor\\CUAutores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T00:56:03.413Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CUTitulos.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Titulo\\CUTitulos.cs",
+              "RelativeDocumentMoniker": "Publicaciones\\Presentacion\\Titulo\\CUTitulos.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Titulo\\CUTitulos.cs",
+              "RelativeToolTip": "Publicaciones\\Presentacion\\Titulo\\CUTitulos.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADgvyIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T01:52:33.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CUEmpleados.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Empleados\\CUEmpleados.cs",
+              "RelativeDocumentMoniker": "Publicaciones\\Presentacion\\Empleados\\CUEmpleados.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Empleados\\CUEmpleados.cs",
+              "RelativeToolTip": "Publicaciones\\Presentacion\\Empleados\\CUEmpleados.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA6wBYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T01:52:04.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CUEmpleados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Empleados\\CUEmpleados.cs",
+              "RelativeDocumentMoniker": "Publicaciones\\Presentacion\\Empleados\\CUEmpleados.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Empleados\\CUEmpleados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Publicaciones\\Presentacion\\Empleados\\CUEmpleados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T00:56:16.132Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CUAutores.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Autor\\CUAutores.cs",
+              "RelativeDocumentMoniker": "Publicaciones\\Presentacion\\Autor\\CUAutores.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Autor\\CUAutores.cs",
+              "RelativeToolTip": "Publicaciones\\Presentacion\\Autor\\CUAutores.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAIA6wDEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T01:10:42.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Program.cs",
+              "RelativeDocumentMoniker": "Publicaciones\\Program.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Program.cs",
+              "RelativeToolTip": "Publicaciones\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T01:30:05.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmAutoresTitulos.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Autor\\frmAutoresTitulos.cs",
+              "RelativeDocumentMoniker": "Publicaciones\\Presentacion\\Autor\\frmAutoresTitulos.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Autor\\frmAutoresTitulos.cs",
+              "RelativeToolTip": "Publicaciones\\Presentacion\\Autor\\frmAutoresTitulos.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T01:28:39.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Principal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Principal.cs",
+              "RelativeDocumentMoniker": "Publicaciones\\Presentacion\\Principal.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Juan\\Sem3\\Publicaciones\\Publicaciones\\Presentacion\\Principal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Publicaciones\\Presentacion\\Principal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T01:33:59.233Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
